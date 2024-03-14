@@ -1,4 +1,3 @@
-![image](https://github.com/Kathiresan-23013376/GCD-of-two-numbers/assets/150008375/8a79df4f-8829-4f8b-8e33-a8a2fb78eeff)# Find the GCD of two numbers
 
 ## AIM:
 To write a program to find the GCD of two numbers using function.
